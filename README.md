@@ -25,7 +25,9 @@ git clone https://github.com/your-username/qr-code-component.git
 <li>Navigate to the project directory:</li>
 <tabel style="width=100;
   border-collapse: collapse;">
-    <tr>
+    <tr style="border: 1px solid #333;
+            padding: 10px;
+            text-align: left;">
             <th>bash</th>
             <th>cd qr-code-component</th>
         </tr>
