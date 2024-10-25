@@ -19,10 +19,10 @@ To get started with the QR Code component, follow these steps:
 <ol>
 <li>Clone the repository:</li>
 
-bash
+bash<br>
 git clone https://github.com/your-username/qr-code-component.git
 <li>Navigate to the project directory:</li>
-bash
+bash<br>
 cd qr-code-component
 <li>Open index.html in your preferred web browser.</li>
 </ol>
