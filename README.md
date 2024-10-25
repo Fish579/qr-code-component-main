@@ -27,12 +27,12 @@ cd qr-code-component
 <li>Open index.html in your preferred web browser.</li>
 </ol>
 
-Usage
+<h2>Usage</h2>
 The QR Code component can be integrated into any website by including the HTML structure and linking the associated CSS styles. You can customize the QR code image and any additional text as needed.
 
-Live Demo
+<h2>Live Demo</h2>
 A live demo of the QR Code component can be viewed here.
 
-License
+<h2>License</h2>
 This project is open source and available under the MIT License.
 
