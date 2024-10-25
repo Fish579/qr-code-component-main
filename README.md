@@ -18,7 +18,7 @@ Technologies Used
 To get started with the QR Code component, follow these steps:
 <ol>
 <li>Clone the repository:</li>
-<div style="border: 2px solid #333; 
+<div style="border: 2px solid black; 
                 padding: 20px; 
                 background-color: #f9f9f9; 
                 border-radius: 8px; 
