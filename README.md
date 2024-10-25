@@ -10,9 +10,11 @@ This project features a responsive QR Code component that directs users to the F
 <li><h3>Accessibility:</h3> Includes alt text for the QR code to enhance accessibility.</li>
   </ul>
 Technologies Used
-HTML
-CSS
-Installation
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+<h2>Installation</h2>
 To get started with the QR Code component, follow these steps:
 
 Clone the repository:
