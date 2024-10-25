@@ -18,12 +18,12 @@ Technologies Used
 To get started with the QR Code component, follow these steps:
 <ol>
 <li>Clone the repository:</li>
-<div style="border: 2px solid #333;
-            padding: 20px;
-            background-color: #f9f9f9;
-            border-radius: 8px;
-            max-width: 600px;
-            margin: 20px auto;">
+<div style="border: 2px solid #333; 
+                padding: 20px; 
+                background-color: #f9f9f9; 
+                border-radius: 8px; 
+                max-width: 600px; 
+                margin: 20px auto;">
 bash
 git clone https://github.com/your-username/qr-code-component.git
 </div>
