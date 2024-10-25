@@ -16,18 +16,19 @@ Technologies Used
 </ul>
 <h2>Installation</h2>
 To get started with the QR Code component, follow these steps:
-
-Clone the repository:
+<ol>
+<li>Clone the repository:</li>
 
 bash
 Copy code
 git clone https://github.com/your-username/qr-code-component.git
-Navigate to the project directory:
+<li>Navigate to the project directory:</li>
 
 bash
 Copy code
 cd qr-code-component
-Open index.html in your preferred web browser.
+<li>Open index.html in your preferred web browser.</li>
+</ol>
 
 Usage
 The QR Code component can be integrated into any website by including the HTML structure and linking the associated CSS styles. You can customize the QR code image and any additional text as needed.
